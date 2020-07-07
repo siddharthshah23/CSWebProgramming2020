@@ -1,0 +1,1 @@
+This program was created in python and uses Luhn's algorithm to verify if the credit is valid or not. It also check if it is master, visa or amex.
